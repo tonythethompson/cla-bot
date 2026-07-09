@@ -1,0 +1,25 @@
+app/api/webhook/github/route.ts
+  s_9eebba3d778b68::t_ce6017c790a821 14
+  s_9eebba3d778b68::t_a1421b4895bfa9 15
+  s_9eebba3d778b68::t_67da7a64b31f0b 121-128,191-194,911-919,935,992-998,1010-1038
+lib/db/queries.ts
+  s_9eebba3d778b68::t_89bdefd37c9396 255-281
+tests/integration/api-suite.test.ts
+  s_9eebba3d778b68::t_6d55c46ac201d5 1845-1931
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "44c266e8b8f7f859de481c8041c1c030e11b5011",
+  "prompts": {},
+  "sessions": {
+    "s_9eebba3d778b68": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bcf63baf-a2b5-44cc-b12c-dead5356f365",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "tonythethompson <tonythethompson@hotmail.com>"
+    }
+  }
+}
